@@ -2,7 +2,7 @@
  * OnDemandNonBlocking.ino
  * example of running the webportal or configportal manually and non blocking
  * trigger pin will start a webportal for 120 seconds then turn it off.
- * startAP = true will start both the configportal AP and webportal
+ * startCP = true will start both the configportal AP and webportal
  */
 #include <WiFiManager.h> // https://github.com/tzapu/WiFiManager
 
