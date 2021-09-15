@@ -1,6 +1,6 @@
 
 # WiFiManager
-## DEVELOPMENT Version
+## Version of the WiFi Manager in spanish and with the method setShowPasswordField(boolean) for hide or show the wifi entry password field, for use the library with Enterprise Wifi connections, like RADIUS server
 
 ESP8266 WiFi Connection manager with fallback web configuration portal
 
